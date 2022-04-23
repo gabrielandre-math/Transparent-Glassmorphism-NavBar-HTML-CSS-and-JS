@@ -55,7 +55,6 @@ ul li a ion-icon {
 ul li.active a ion-icon {
   opacity: 1;
 }
-
 #marker {
   position: absolute;
   top: 0;
