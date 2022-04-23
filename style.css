@@ -61,7 +61,6 @@ ul li.active a ion-icon {
   transition: 0.5s;
   z-index: 1;
 }
-
 #marker::before {
   content: "";
   position: absolute;
