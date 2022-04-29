@@ -70,7 +70,6 @@ ul li.active a ion-icon {
   height: 40px;
   border-radius: 8px;
 }
-
 ul li:nth-child(1).active ~ #marker::before {
   background: #5da6ff;
   box-shadow: 0 0 15px #5da6ff, 0 0 30px #5da6ff, 0 0 45px #5da6ff,
