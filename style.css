@@ -93,7 +93,6 @@ ul li:nth-child(4).active ~ #marker::before {
   box-shadow: 0 0 15px #df2fff, 0 0 30px #df2fff, 0 0 45px #df2fff,
     0 0 60px #df2fff;
 }
-
 ul li:nth-child(5).active ~ #marker::before {
   background: #ff308f;
   box-shadow: 0 0 15px #ff308f, 0 0 30px #ff308f, 0 0 45px #ff308f,
