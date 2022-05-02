@@ -79,7 +79,6 @@ ul li:nth-child(2).active ~ #marker::before {
   background: #ff0;
   box-shadow: 0 0 15px #ff0, 0 0 30px #ff0, 0 0 45px #ff0, 0 0 60px #ff0;
 }
-
 ul li:nth-child(3).active ~ #marker::before {
   background: rgb(255, 5, 242);
   box-shadow: 0 0 15px rgb(255, 5, 242), 0 0 30px rgb(255, 5, 242),
