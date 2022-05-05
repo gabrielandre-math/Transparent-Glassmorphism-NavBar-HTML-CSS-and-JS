@@ -1,5 +1,5 @@
 # Transparent-Glassmorphism-NavBar-HTML-CSS-and-JS
-A simple NavBar with Glassmorphism
+A simple NavBar with Glassmorphism.
  
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/MWrbyRZ
 
