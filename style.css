@@ -10,9 +10,7 @@ body { background-color: #222222; }
 .icon:hover {
   color: rgba(0, 0, 0, 1.25);
 }
-.facebook {
-  opacity: 0.3;
-}
+.facebook { opacity: 0.3; }
 @media (max-width: 768px) {
   .container {
     position: absolute;
