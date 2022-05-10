@@ -45,9 +45,7 @@ ul li a ion-icon {
   opacity: 0.25;
   transition: 0.25s;
 }
-ul li.active a ion-icon {
-  opacity: 1;
-}
+ul li.active a ion-icon { opacity: 1; }
 #marker {
   position: absolute;
   top: 0;
