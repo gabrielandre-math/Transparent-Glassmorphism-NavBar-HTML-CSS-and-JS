@@ -7,9 +7,7 @@ body { background-color: #222222; }
   align-items: center;
 }
 .icon { color: rgba(255, 255, 255, 10.25); }
-.icon:hover {
-  color: rgba(0, 0, 0, 1.25);
-}
+.icon:hover { color: rgba(0, 0, 0, 1.25); }
 .facebook { opacity: 0.3; }
 @media (max-width: 768px) {
   .container {
